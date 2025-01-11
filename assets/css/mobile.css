@@ -115,12 +115,8 @@ header, footer, section {
 
 div.shell {
   display: block;
-  width: 640px;
+  width: 800px;
   margin: 0 auto;
-}
-
-a#forkme_banner {
-  display: none;
 }
 
 /* header */
