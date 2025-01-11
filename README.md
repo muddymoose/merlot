@@ -1,4 +1,5 @@
 # The Merlot theme
+*muddymoose edition*
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/merlot/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/merlot/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-merlot.svg)](https://badge.fury.io/rb/jekyll-theme-merlot)
 
@@ -13,7 +14,7 @@ To use the Merlot theme:
 1. Add the following to your site's `_config.yml`:
 
     ```yml
-    remote_theme: pages-themes/merlot@v0.2.0
+    remote_theme: muddymoose/merlot
     plugins:
     - jekyll-remote-theme # add this line to the plugins list if you already have one
     ```
